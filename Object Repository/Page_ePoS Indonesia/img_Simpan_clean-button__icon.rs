@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Simpan_clean-button__icon</name>
+   <tag></tag>
+   <elementGuidId>18a169fb-e4fe-4099-88fe-7f6b6817a2fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clean-button__icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/icon-export.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/body[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/app-root[1]/mli-mcbl-theme[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/div[@class=&quot;main-body&quot;]/app-content-shell[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;nav mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/section[1]/main[@class=&quot;main&quot;]/app-chart-view[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;drawer-chart-view mat-drawer-container&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/div[@class=&quot;router-content chart-view propose-page&quot;]/div[@class=&quot;top-bar&quot;]/section[@class=&quot;top-bar__right buttons ng-star-inserted&quot;]/div[@class=&quot;clean-button&quot;]/div[@class=&quot;clean-button__wrapper&quot;]/img[@class=&quot;clean-button__icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

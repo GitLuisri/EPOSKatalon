@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c6efbaac-12f2-485c-874c-2ba5c13819ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/section/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/icon-product-list.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/body[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/app-root[1]/mli-mcbl-theme[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/div[@class=&quot;main-body&quot;]/app-content-shell[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;nav mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/section[1]/main[@class=&quot;main&quot;]/app-proposal-list[@class=&quot;ng-star-inserted&quot;]/app-create-proposal-section[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;create-proposal-section open&quot;]/div[@class=&quot;create-proposal-container&quot;]/div[@class=&quot;create-proposal-menu&quot;]/section[@class=&quot;create-proposal-menu__buttons&quot;]/div[@class=&quot;button&quot;]/div[@class=&quot;icon&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

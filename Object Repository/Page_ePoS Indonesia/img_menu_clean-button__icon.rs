@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_menu_clean-button__icon</name>
+   <tag></tag>
+   <elementGuidId>3136449d-1cc8-43d6-9ebe-e078e45d4293</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clean-button__icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/icon-close.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/body[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/app-root[1]/mli-mcbl-theme[@class=&quot;mli-typography-3 mli-light-theme app-container&quot;]/div[@class=&quot;main-body&quot;]/app-content-shell[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;nav mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/section[1]/main[@class=&quot;main&quot;]/app-summary-pdf[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;view-proposal-pdf view-pdf router-content&quot;]/div[@class=&quot;top-bar&quot;]/section[@class=&quot;top-bar__right buttons&quot;]/div[@class=&quot;clean-button button-proposal&quot;]/div[@class=&quot;clean-button__wrapper&quot;]/img[@class=&quot;clean-button__icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+   </webElementXpaths>
+</WebElementEntity>
